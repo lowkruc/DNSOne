@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="150dp" android:height="150dp" android:gravity="center" android:drawable="@drawable/ic_ellipse_3"/>
+    <item android:width="175dp" android:height="175dp" android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="#40C90D8A"/>
+        </shape>
+    </item>
+
+    <item android:width="200dp" android:height="200dp" android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="#40C90D8A"/>
+        </shape>
+    </item>
+</layer-list>
